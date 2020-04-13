@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Juice Factory NaEks</string>
+
+    <string name="detail_kompanija">O kompaniji:</string>
+    <string name="detail_mesto_porekla">Mesto porekla:</string>
+    <string name="detail_opis">Opis:</string>
+    <string name="detail_sastojci">Sastojci:</string>
+
+    <string name="juice_picture_content_description">Juice picture</string>
+
+    <string name="detail_error_message">Juice data not available</string>
+
+    <string-array name="juice_names">
+        <item>Sok od jabuke</item>
+        <item>Sok od borovnice</item>
+        <item>Sok od narandze</item>
+        <item>Multivitamin</item>
+        <item>Ananas</item>
+        <item>Limunada</item>
+        <item>Breskva</item>
+        <item>Kajsija</item>
+        <item>Kola</item>
+        <item>Kokta</item>
+    </string-array>
+
+    <string-array name="juice_details">
+        <item>{\"name\":{\"mainName\":\"Sok od jabuke\",
+            \""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Kada govorimo o osvežavajućim bezalkoholnim pićima sa ukusom voća, sigurno je da ukus jabuke spada među same klasike. Na eks jabuka je negazirano osvežavajuće bezalkoholno piće koje će vas idealno okrepiti u bilo koje doba godine ili dana, a u ambalaži od 2 litra je idealno za vaša druženja sa prijateljima.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/0/0e/Malus_Granny_Smith_4546.jpg\",
+            \"ingredients\":[\"jabuka\",\"limunska kiselina\"]}
+        </item>
+        <item>
+            {\"name\":{\"mainName\":\"Sok od borovnice\",
+            \""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Ako je vama i vašem društvu potrebno nešto i ukusno i osvežavajuće, onda je Na eks borovnica u pakovanju od 2 litra pravi izbor. Na eks borovnica je negazirano osvežavajuće bezalkoholno piće sa mirisom i ukusom prave planinske borovnice, što ga čini sasvim posebnim i drugačijim. Svojom svežinom ovaj napitak će vas voditi u netaknutu prirodu gde borovnice rastu. Za proizvodnju ovog napitka koristimo svežu i čistu vodu, koja još više povećava osvežavajuću moć Na eks borovnice.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/7/7d/Dish_of_blueberries.jpg\",
+            \"ingredients\":[\"borovnica\",\"limunska kiselina\"]}
+        </item>
+        <item>
+            {\"name\":{\"mainName\":\"Sok od narandze\",
+            \""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},\"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Iskoristiti jarku boju, osvežavajući miris i slatko-kiseli ukus narandže za pravljenje osvežavajućeg pića je proveren recept za uspeh. Aroma ovog južnog voća je omiljena među ljubiteljima bezalkoholnih osvežavajućih pića, kako gaziranih, tako i negaziranih. Interesantna je činjenica da bez ikakvih problema i bez poznavanja stranih jezika relativno lako možete naručiti ili kupiti piće sa ukusom narandže u bilo kom delu sveta, jer je reč „oranž“ poznata svima.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg\",
+            \"ingredients\":[\"narandza\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Multivitamin\",
+            \""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Dodatak ishrani koji u sebi sadrži bar tri vitamina naziva se multivitamin. Pored vitamina multivitamini mogu da sadrže i određene minerale, kao i druge elemente koji su neophodni za pravilno funkcionisanje organizma. Iako teoretski čovek može putem hrane da svom ogranizmu obezbede potrebne količine vitamina i minerala, sa današnjim načinom ishrane to je postalo veoma teško.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/6/62/Mixed_fruit.jpg\",
+            \"ingredients\":[\"mesavina voca\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Ananas\",\""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Ananas je jedan od dvanaest ukusa u porodici Na eks osvežavajućih negaziranih pića. Ukoliko biste želeli da se osvežite, a da ipak izbegnete gazirane napitke, ananas je jedan od naših dvanaest ukusa koji će vam na pravi način omogućiti to. Aroma ananasa ne samo da će vas osvežiti, nego će vas približiti toplim i dalekim tropskim krajevima.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/6/60/Ananas_22032007.JPG\",
+            \"ingredients\":[\"ananas\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Limunada\",\"alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Limun je podjednako dobro poznat ukus i ljubiteljima gaziranih i ljubiteljima negaziranih osvežavajućih bezalkoholnih pića. Pojavljuje se još u prvim receptima za spravljanje osvežavajućih napitaka. Da ne govorimo o klasičnoj limunadi, koja je već vekovima najpoznatije piće kako za okrepljenje, tako i za jačanje imuniteta.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg\",
+            \"ingredients\":[\"limun\",\"limunska kiselina\"]}
+        </item>
+        <item>
+            {\"name\":{\"mainName\":\"Breskva\",\""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Zahvaljujući Na eks negaziranom osvežavajućem napitku sa ukusom breskve u PET boci od 2 litra, vaši prijatelji i vi tokom cele godine možete da uživate u divnoj aromi ovog sočnog voća. Svima dobro poznat i omiljen miris breskve, koji asocira na duge i opuštene letnje dane, sada je tu za vas u bilo koje doba.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg\",
+            \"ingredients\":[\"breskva\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Kajsija\",\""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Osvežavajuće negazirano piće sa ukusom kajsije je za pravog sladokusca uvek više od običnog napitka kojim ćete utoliti žeđ. Razlog za to je potpuno jasan i krije se u neponovljivo dobrom mirisu i ukusu ovog voća. Upravo zbog toga su osvežavajuća pića sa ukusom kajsije među najcenjenijima na svetu.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/f/f9/Apricots.jpg\",
+            \"ingredients\":[\"kajsija\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Cola\",\""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Kola je verovatno najpoznatije piće na svetu. Prvi napitak nastao je krajem 19. veka u Sjedinjenim Američkim Državama, a danas je jedan od najprepoznatljivijih proizvoda. Od tada pa do danas, planeta je dobila veliki broj proizvođača ovog pića i svaki od tih proizvođača ga pravi na svoj način, po svojoj recepturi.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/8/81/Coca-Cola_Glas_mit_Eis.jpg\",
+            \"ingredients\":[\"kofein\",\"limunska kiselina\"]}
+        </item>
+        <item>{\"name\":{\"mainName\":\"Kokta\",\""alsoKnownAs\":[\"Kompanija Bahus svoja bezalkoholna gazirana pića proizvodi posebnim tehnološkim postupkom, od vode iz sopstvenog bunara, uz dodavanje šećera, limunske kiseline, boje i arome. Naš cilj je da u narednom periodu gazirana bezalkoholna pića pod brendom Na eks u sebi imaju samo i isključivo prirodne boje.\"]},
+            \"placeOfOrigin\":\"Paracin, Srbija\",
+            \"description\":\"Zahvaljujući svom posebnom ukusu kokta je, kada se je pojavila pedesetih godina prošlog veka, stekla veliki broj poklonika na našem prostoru. Tako je i danas, bez obzira na to što je stigla moćna konkurencija u vidu poznatih svetskih brendova.\",
+            \"image\":\"https://upload.wikimedia.org/wikipedia/commons/6/69/Logotip_Cockte.jpg\",
+            \"ingredients\":[\"kofein\",\"limunska kiselina\"]}
+        </item>
+    </string-array>
+
+    <string name="transition_move">move</string>
+
+    <string name="new_line">\n</string>
+
+    <string name="message_not_available">Message not available</string>
+    <string name="adrijana_savic">Adrijana Savic</string>
+    <string name="splash_key">splash_settings</string>
+</resources>
