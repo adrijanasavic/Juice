@@ -32,11 +32,11 @@ public class SplashScreen extends Activity  {
 
             ImageView imageView = findViewById( R.id.imageSplash );
             InputStream is;
-            imageView.animate().rotation( 1800 ).alpha( 0 ).setDuration( 10000 );
-            imageView.animate().scaleX( 0.5f ).scaleY( 0.5f ).setDuration( 2000 );
+            imageView.animate().rotation( 1200 ).alpha( 0 ).setDuration( 1200 );
+            imageView.animate().scaleX( 0.5f ).scaleY( 0.5f ).setDuration( 4000 );
            // imageView.animate().translationXBy( 1000 ).rotation( 3600 ).setDuration( 3000 );
             try {
-                is = getAssets().open( "na_eks1.jpg" );
+                is = getAssets().open( "na_ek1.jpg" );
                 Drawable drawable = Drawable.createFromStream( is, null );
                 imageView.setImageDrawable( drawable );
             } catch (IOException e) {
